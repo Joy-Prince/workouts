@@ -1,0 +1,70 @@
+html {
+	padding-bottom: 5px;
+}
+
+h1 {
+
+	font-family: cursive;
+	text-align: center;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	background-color: whitesmoke;
+	margin-bottom: 1px;
+}
+
+ul {
+	list-style-type: none;
+	float: right;
+}
+
+li {
+	display: inline;
+}
+
+li a {
+	padding: 15px 32px;
+	color: whitesmoke;
+	text-decoration: none;
+	text-align: center;
+	font-size: 17px;
+	font-family: cursive;
+	font-style: oblique;
+}
+
+.container {
+	text-align: center;
+
+}
+
+.item {
+	float: left;
+	padding: 20px;
+}
+
+footer {
+	text-align: center;
+	background-color: whitesmoke;
+	padding: 10px;
+}
+
+li a:hover{
+	background-color: chocolate;
+	color: whitesmoke;
+	border-radius: 8px;
+}
+
+body {
+	background-color: chocolate;
+}
+
+h2 {
+	text-align: center;
+	padding: 20px;
+	font-size: 35px;
+	color: whitesmoke;
+} 	
+
+p {
+	font-size: 20px;
+	text-align: center;
+}
